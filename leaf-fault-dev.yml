@@ -6,3 +6,8 @@
 ## E-mail    : hongchang.lee@hdel.co.kr
     
 testvar: update test value for dev 
+
+microservices:
+    leaf:
+        mon: leaf-mon
+        fault : leaf-fault
