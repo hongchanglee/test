@@ -8,7 +8,9 @@
 testvar: update test value for dev 
 
 faultProperties:
-    microservices:
-        leaf:
-            mon: leaf-mon
-            fault : leaf-fault
+    leafServices:
+        mon: leaf-mon
+        fault : leaf-fault
+    stemServices:
+        route: stem-route
+        config: stem-config
