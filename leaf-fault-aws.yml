@@ -7,7 +7,7 @@
     
 testvar: aws test value is change again!!!
 
-microservces:
+microservices:
     leaf:
         mon: leaf-mon
         fault : leaf-fault
